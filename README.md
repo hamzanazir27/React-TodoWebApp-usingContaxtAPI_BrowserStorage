@@ -4,7 +4,7 @@ A sleek and modern Todo App built using **React** and powered by **localStorage*
 
 ---
 
-####  Live Demo : [https/in/hamzanazir1](https://react-todo-web-app-using-contaxt-ap.vercel.app/)
+####  Live Demo : [Your Todo Manager](https://react-todo-web-app-using-contaxt-ap.vercel.app/)
 
 ---
 
